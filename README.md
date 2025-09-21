@@ -1,7 +1,7 @@
 # QuickCart - A simple eCommerce website
 
 
-QuickCart is an open-source **Next.js eCommerce full stack ** project.  
+QuickCart is a Next.js eCommerce full stack  project.  
 It provides a modern, fast and customizable shopping UI.  
 
 
@@ -39,9 +39,5 @@ It provides a modern, fast and customizable shopping UI.
 
 
 
-## License
 
-This project is licensed under the **MIT License**.
-
----
 
